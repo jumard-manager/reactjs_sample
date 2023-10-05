@@ -15,7 +15,7 @@ https://github.com/jumard-manager/vuejs_sample
 ## Author
 
 * jumard.top
-* manager@jumard.com
+* contact@jumard.com
  
 ## License
 [MIT license](https://en.wikipedia.org/wiki/MIT_License).
