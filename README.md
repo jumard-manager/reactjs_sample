@@ -12,10 +12,14 @@ This is a sample of coding a React.js sample with Vue.js.
 
 https://github.com/jumard-manager/vuejs_sample
 
-## Author
+## Authors
 
-* jumard.top
-* contact@jumard.com
- 
+> bridge LLC in japan
+
+* shkim@jumard.com (member)
+
+## Contact
+* contact@jumard.com 
+
 ## License
 [MIT license](https://en.wikipedia.org/wiki/MIT_License).
